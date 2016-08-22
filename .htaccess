@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule MakookAnnonce/([a-zA-Z0-9\-]+)/([0-9]+) Views/Annonces.php?id=$2

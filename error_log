@@ -1,0 +1,2 @@
+[15-Aug-2016 12:06:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/makook/public_html/eya/Admin/v3/Modeles/Database.php:47) in /home/makook/public_html/eya/Admin/v3/Modeles/class.user.php on line 82
+[16-Aug-2016 02:54:31 America/Chicago] PHP Fatal error:  Call to undefined function password_verify() in /home/makook/public_html/eya/Admin/v3/Modeles/class.user.php on line 55
